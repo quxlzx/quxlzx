@@ -12,7 +12,7 @@ I build **agent systems and local-inference stacks** — software that runs real
 ## Featured projects
 | Project | What it is |
 |---|---|
-| [hanni-core](https://github.com/quxlzx/hanni-core) | The self-hosted agent: Windows app + cross-platform native brain; a 5,500-check offline test harness and a publication privacy audit run in CI |
+| [hanni-core](https://github.com/quxlzx/hanni-core) | The self-hosted agent: Windows app + cross-platform native brain; a 5,500-check offline test harness and a publication privacy audit, all green in CI on Windows and Linux |
 | [vision-bench](https://github.com/quxlzx/vision-bench) | Reproducible local vision-model benchmark — documented setup, seeds, and evaluation commands |
 | [jev-doom](https://github.com/quxlzx/jev-doom) | Agents playing ViZDoom — scripted vs learned policies, headless-runnable with documented reproduction steps |
 
